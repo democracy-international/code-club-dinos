@@ -1,0 +1,26 @@
+body {
+	background-color: #eeeeee;
+}
+
+div {
+	color: #005288;
+}
+
+.dino-name {
+	font-weight:bolder;
+	font-size: 150%;
+	color: red;
+	
+}
+
+.dino-img {
+	width: 500px;
+}
+
+.dino-img:hover {
+	opacity: 0.8;
+}
+
+#raptor {
+	text-decoration: underline;
+}
