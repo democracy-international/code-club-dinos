@@ -1,0 +1,12 @@
+.grid-demo p {
+	padding: 15px;
+}
+
+.container.grid-demo {
+	background-color: #f6f8f8;
+	padding: 15px;
+}
+
+.item {
+	border: 1px solid #bdc3c7;
+}
